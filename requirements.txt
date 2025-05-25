@@ -1,0 +1,8 @@
+streamlit
+python-binance
+pandas
+numpy
+plotly
+requests
+python-dotenv
+aiohttp
